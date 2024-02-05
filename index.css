@@ -1,0 +1,50 @@
+h1 {
+    background-color: red;
+    text-align: center;
+    font-family: fantasy;
+    text-shadow: 2px 5px rgb(145, 25, 1);
+    font-size:xx-large;
+    border-radius: 25px;
+    margin-left: 25%;
+    margin-right: 25%
+
+}
+
+section {
+    background-color:gray;
+    margin-right: 75%;
+    font-size: larger;
+    padding: 2%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+
+}
+
+.mainBlog {
+    border-style: dashed;
+    border-color: black;
+    background-color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+    align-self: center;
+    text-decoration-line: none;
+    float: right;
+    width: 66.66%;
+}
+
+p {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+img {
+    float: center;
+}
+
+iframe {
+    float: center;
+    padding-bottom: 5%;
+}
